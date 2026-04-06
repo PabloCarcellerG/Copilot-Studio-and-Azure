@@ -18,9 +18,12 @@ export default defineConfig({
     createIconImportProxy() as PluginOption,
     sparkPlugin() as PluginOption,
   ],
+  build: {
+    outDir: 'dist',
+  },
   resolve: {
     alias: {
-      '@': resolve(projectRoot, 'src')
+      '@': resolve(projectRoot, '.')
     }
   },
 });
