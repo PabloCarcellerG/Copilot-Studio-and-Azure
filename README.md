@@ -47,7 +47,8 @@ Copilot Studio empowered by Azure is recommended in scenarios when:
 
 # Architecture
 
-<img width="785" height="545" alt="image" src="https://github.com/user-attachments/assets/350944c5-65cc-4aa4-a3f4-4713b30dc74f" />
+<img width="734" height="452" alt="image" src="https://github.com/user-attachments/assets/a526426f-a9b7-4b5c-9c44-30b2326b459d" />
+
 
 # Solutions Accelerators
 
